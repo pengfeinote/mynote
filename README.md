@@ -1,2 +1,1 @@
-# mynote
-notebook
+# to be delete
